@@ -58,3 +58,29 @@ cuenta que esos problemas se caen si el electorado no es tonto. Así que una sol
 proponer) es asegurarse de que el electorado tiene una mínima educación política. Además ayuda a la crítica del sistema que es 
 un paso indispensable para que pueda mejorarse. 
   
+#Una respuesta
+Ante todo, tengamos en cuenta que Sui Generis debería ser una plataforma de proyectos, no un gobierno. Es primordial 
+desarrollar una manera de organizar e involucrar a la gente, de una forma fácil, motivante y sencilla.
+
+Tal y como lo veo yo, la mecánica sería la siguiente:
+  1. Todos los usuarios tienen el derecho a crear proyectos. La creación de un proyecto pasa por tres fases:
+     1.1. Boceto inicial: Se plantea la idea detrás del proyecto y se desarrolla con la ayuda de la comunidad. El objetivo de
+          esta fase es crear un plan viable y bien organizado, con roles definidos. Si el usuario solo quiere compartir una 
+          idea y no desarrollarla el mismo, puede dejarla como "semilla" de proyecto.
+     1.2. Reclutamiento: el proyecto comienza a reclutar personas que rellenen los roles necesitados por el proyecto.
+     1.3. Realización: cada trabajador involucrado cumple con su parte del trabajo, ¡y todos contentos!
+     Estas fases se entremezclan y se confunden, pero la mecánica queda clara: primero se subdivide un proyecto en trabajos,
+     y cuando un trabajo se define se oferta automáticamente, a la espera de que un trabajador lo complete.
+     Los proyectos deberán ser forkeables y exigir compromiso 0: en cualquier momento puedes dejar un proyecto a medias, o
+     transferírselo a otro.
+     
+  2. Los usuarios pueden aspirar a un trabajo dentro de un proyecto si satisfacen las especificaciones que el organizador
+     que ha creado el trabajo ha puesto en el mismo. Si pasado un tiempo no han cumplido lo que se comprometieron a hacer,
+     el trabajo pasa de nuevo a oferta.
+     
+  3. Necesitaremos una manera de promocionar trabajos. Sugiero que los usuarios puedan votar acerca de lo bien organizado que
+     está un trabajo, aunque no me fio mucho de las votaciones subjetivas. La idea es que los trabajos de un proyecto mejor
+     organizado y con más demanda de capital humano trepen al top. Según las ofertas se van cogiendo, van disminuyendo su 
+     visibilidad de forma natural.
+     
+El primer proyecto de la plataforma, y proyecto central, debe ser la propia plataforma, en un afán de mejora continua.
