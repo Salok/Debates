@@ -1,0 +1,60 @@
+# Básicamente para ver como leches se mejora Sui hasta construir una organización perfectamente sostenible sin necesidad de una 
+cabeza. En principio debería ser aplicable a cualquier otra organización con objetivos similares. En este primer commit recupero
+lo que ya habíamos hablado. 
+
+Requisitos: 
+  # Mínimos que debe cumplir el sistema. Me quede con estos pero no creo que estén todos ni se si estáis totalmente de acuerdo 
+  con ellos. Comentad lo que veais. 
+  
+  1.- El objetivo de Sui es ser una plataforma de propuestas de proyectos que permita a los miembros participar en los proyectos
+  en los que estén interesados con facilidad. Esto implica que cualquier propuesta debe facilitar (o no limitar) la capacidad de
+  los miembros en participar y proponer proyectos.
+  
+  2.- El modelo debe ser escalable. Por ejemplo, una asamblea puede ser un modelo válido, aunque no óptimo, de gobierno para un 
+  grupo pequeño. Pero tener 100 personas en asamblea es jodido y más se vuelve insostenible. 
+  
+  3.- Al menos en un primer momento todos los miembros deberían tener el mismo poder dentro de la organización. (Debería haber 
+  alguna forma fácil de revertir a este estado inicial para evitar abusos de poder.)
+  
+  4.- Cualquiera de los sistemas debería ser capaz de mejorarse a si mismo. Para conseguir esto debería favorecerse un coste de 
+  error bajo (cualquier cambio que no resulte en una mejora debería poder revertirse con facilidad) para evitar en la medida
+  de lo posible el problema del miedo. También debería incorporarse una responsabilidad de cuantificar objetivamente si los 
+  cambios son (significativamente) a mejor o a peor.
+  
+  
+Propuestas: 
+  # Las diferentes propuestas sobre las que pasamos el otro día. Mayormente democracia fluida y variaciones. Con pros y contras.
+  1.- Democracia fluida: Todos conocéis esta. Es todo muy bonito pero también tiene ciertos problemas. 
+    El principio es simple. Cada miembro tiene un voto y tenemos una democracia literal en la que las decisiones se toman por
+    mayoría simple (u otras dependiendo de lo establecido). La principal diferencia con otros modelos de democracia es que aquí
+    cada miembro puede en cualquier momento postularse como representante en un determinado tema (o en varios) y desde ese 
+    momento aceptar que otras personas deleguen en él su voto. La idea es igual que la de una democracia representativa pero 
+    con las diferencias de que el voto puede ser retirado o delegado en cualquier momento y de que el voto no tiene por que
+    entregarse como un paquete completo. Si estoy de acuerdo con lo que dice A en un tema y con lo que dice B en otro puedo 
+    decidir delegar mi voto a A en su tema y a B en el suyo. 
+    
+    Problemas varios: 
+      1.- El más gordo que vimos la última vez es la inestabilidad política que trae. Si en cualquier momento se puede retirar 
+      el voto puede ocurrir que haya movimientos masivos de poder con un poco de demagogia (nos prometen algo muy bueno muy 
+      rápido y nos cambiamos). Obviamente lo bueno de este sistema es que el coste de el error es muy pequeño porque es fácil
+      volver a cambiar una vez se descubre el engaño. (Y cometer errores es una manera fácil de aprender) Pero si es posible 
+      solucionar esto debería hacerse.
+      
+      2.- El otro problema es la responsabilidad de los representantes. Debería ser fácil para ellos abandonar su cargo si lo 
+      quieren hacer pero esto podría provocar problemas de vacío de poder si ocurre en momentos de necesidad (justo cuando es
+      más probable que pase por la presión). Es cierto que tampoco es muy grave porque cada miembro simplemente recupera su voto
+      y ya está pero si ocurre justo antes de una votación o algo así podría ser bastante malo. 
+      
+      3.- Y otro más. ¿Quién decide cuales son los temas en los que se puede dividir el voto y que abarca cada uno? Si la 
+      votación x pertenece al tema A he delegado en una persona, y si pertenece a B he delegado en otra. ¿Quien decide a que 
+      tema pertenece la votación? Creo que la manera más fácil de "solucionarlo" es hacer que se delegue el voto no por tema 
+      sino por votación pero también tiene sus problemas (Básicamente requiere participación diaría para ver que votaciones
+      tengo que delegar y requiere además un conocimiento mínimo del tema de la votación para saber quien coincide conmigo en
+      opinión y delegar en él. Es casi lo mismo que votar yo así que no es buena solución...)
+      
+Para terminar os dejo por aquí otra idea. Creo que es importante que para los problemas penséis en el peor caso posible. Un
+electorado muy estúpido que se dejaría engañar por demagogos, un representante genio del mal... Pero hay que tener en 
+cuenta que esos problemas se caen si el electorado no es tonto. Así que una solución fácil (no de implementar pero si de 
+proponer) es asegurarse de que el electorado tiene una mínima educación política. Además ayuda a la crítica del sistema que es 
+un paso indispensable para que pueda mejorarse. 
+  
