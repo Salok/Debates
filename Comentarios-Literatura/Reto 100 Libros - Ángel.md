@@ -1,6 +1,6 @@
 Libros:
-- leidos: 1
-- en proceso: 1
+- leidos: 2
+- en proceso: 2
 
 - [X] **Common Sense** de *Thomas Paine*
   - Año: 1776
@@ -11,4 +11,7 @@ Libros:
   - Valoración: Un texto histórico, contundente y romántico. Repleto de citas geniales:
     - "Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one."
     - "For as in absolute governments the King is law, so in free countries the law ought to be King; and there ought to be no other."
+- [X] **On the Duty of Civil Disobedience** de *Henry David Thoreau*
+- [ ] **REAMDE** de *Neal Stephenson*
+  - Por donde voy hay unos Spetnatz que han secuestrado a unos hackers para buscar a otros hackers pegandose tiros con una jihadistas vigilados por el MI5 en un edificio colapsando en una gran ciudad de la República Popular China.
 - [ ] **Lolita** de *Vladmir Nabokov*
