@@ -7,4 +7,5 @@ Voy a decirte un par de cosas importantes, aunque van a parecerte que estoy loco
 
 -------------
 Pros: Foreshadowing decente que refuerza la ilusión. Posibilidad de seguir el juego conmigo como nuevo agente.
+
 Cons: Demasiado críptico, puede no captar su atención. La relación que tengo contigo hace evidente el juego. Necesito una excusa para no dar más explicaciones. Mi personaje no está definido, y necesito un modelo del mismo para poder actuar de manera acorde.
