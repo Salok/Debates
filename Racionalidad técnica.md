@@ -7,7 +7,7 @@ La racionalidad es acerca de ganar, o, en términos más matemáticos, de optimi
 
 Así, el primer objetivo siguiendo racionalidad técnica es definir tus valores terminales. No hace falta darles un valor matemático preciso, pero si es bueno tener una escala mental comparativa. Algunos ejemplos de valores terminales son la vida, la cultura, la ciencia, etc…
 
-También es conveniente contar con varios valores instrumentales.
+También es conveniente contar con varios valores instrumentales. Los valores instrumentales son maneras de conseguir alcanzar valores terminales. Y resulta que la racionalidad es un valor instrumental convergente.
 
 Son fundamentales porque gracias a ellos vas a definir tu función de utilidad, que te va a permitir matematizar tus decisiones.
 
