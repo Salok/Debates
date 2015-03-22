@@ -45,4 +45,21 @@ Ahora el test:
     Pero el 9% de las mujeres sin cáncer de mama también dan positivo en el test. Eres un médico que acaba de recibir los
     resultados de un test que ha dado positivo. ¿Cuál es la probabilidad de que tu paciente tenga cáncer de mama?
                 
-                
+    4.a- Acabas de ganar 1000€ en la lotería. Tienes un premio especial que te da dos opciones:
+      1.- Ganar 1000€ con un 50% de probabilidad.
+      2.- Ganar 500€
+      
+    4.b- Acabas de ganar 2000€ en la lotería. Pero antes de que te entreguen el premio tienes dos opciones: 
+      1.- Perder 1000€ con un 50% de probabilidad.
+      2.- Perder 500€
+    
+    (Y este problema me ha recordado al otro que estaba buscando)
+    5.a- Un epidemia afecta a un pueblo de 500 habitantes. Eres el jefe de una operación de control y tienes los recursos
+    para implementar solo una de las siguientes opciones: 
+      1.- Salvar a 400. 
+      2.- Salvar a todos con una probabilidad del 90% o que mueran todos con una probabilidad del 10%.
+      
+    5.b- Un epidemia afecta a un pueblo de 500 habitantes. Eres el jefe de una operación de control y tienes los recursos
+    para implementar solo una de las siguientes opciones: 
+      1.- Dejar que mueran 100.
+      2.- Que no muera nadie con un 90% de probabilidad o que mueran todos con un 10%. 
