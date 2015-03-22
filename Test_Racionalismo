@@ -1,0 +1,48 @@
+Estoy pensando en la mejor forma de pasar el test. Pongo las ideas que tengo: 
+1.- Entrar en una clase y dejar una copia en el tablón, pedir que lo hagan cuando puedan y pasar a buscar los resultados después. 
+2.- Interrumpir la clase, dar copias de los tests y darles 10 minutos para contestar. 
+3.- Hacerlo al principio de la presentación.
+
+Estoy pensando que igual es un poco largo pero dependerá de cuando lo hagamos. Comentad para ver que trozos cortamos si creéis 
+que sobra algo.
+
+Ahora el test: 
+  Cabecera:
+    Datos: Había pensado que pusieran solo la clase. Queremos que sea anónimo pero así si hacemos alguna de las formas de
+    pasarlo en las que pueden copiar podemos detectar los grupos de gente que han copiado (más o menos) y que la estadística
+    quede bonita. Aunque siempre podemos inventarnos los datos. 
+    Instrucciones: Creo que es bastante obvio pero podemos poner algo sobre el tiempo y decir que para ver los resultados vengan
+    al aula 0 a las 16.
+  Preguntas:
+    10 preguntas de calibración. Verdadero y falso para hacerlo más rápido. 
+      
+      1.- ¿Es el fémur el hueso más largo del cuerpo?
+      2.- ¿Depende de su masa el periodo de un péndulo simple?
+      3.- ¿Es China el segundo país más grande del mundo?
+      4.- ¿Hay más mujeres que hombres en el mundo? 
+      5.- ¿Hay menos de 100 primos antes de 500?
+      6.- ¿Es la sonata para piano Pathétique de Mozart?
+      7.- ¿Es la densidad de población del planeta mayor que 20 personas por kilometro cuadrado?
+      8.- ¿Es la Tierra el planeta más denso del sistema solar?
+      9.- ¿Es Harry Potter y la Piedra Filosofal el libro más vendido de la historia?
+      10.- ¿Tiene suficiente energía un litro de gasolina para evaporar 10 litros de agua?
+      
+    Preguntas de sesgos:
+    
+    1.- (Falacia de conjunción)
+    Tengo un dado de 6 caras. Cuatro son verdes y dos rojas. Lo tiro 20 veces y apunto la secuencia que ha salido. ¿Cual de las 
+    siguientes secuencias crees que es más probable que haya salido en algún momento de las 20 tiradas? (V es verde y R rojo)
+    A.- RRRVRRVRR
+    B.- VRRRVRRVRR
+    C.- VRRRRRVRR
+    
+    2.- (Scope insensitivity) (Una pregunta diferente para cada clase)
+    Una ONG esta recaudando fondos para llevar agua a un campamento de refugiados en Palestina. La ONG cree que podría conseguir
+    llevar agua a 100/1000/10000 refugiados. ¿Cuánto dinero aportarías?
+    
+    3.- (Bayes) (La típica que todo el mundo hace mal)
+    El 1% de las mujeres de 40 años desarrollan cáncer de mama. El 80% de las mujeres con cáncer de mama dan positivo en el test
+    Pero el 9% de las mujeres sin cáncer de mama también dan positivo en el test. Eres un médico que acaba de recibir los
+    resultados de un test que ha dado positivo. ¿Cuál es la probabilidad de que tu paciente tenga cáncer de mama?
+                
+                
