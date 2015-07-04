@@ -8,6 +8,8 @@ Philosophers through history have made a sharp distinction between what we want 
 
 What is a preference? This question seems resolved when we picture rational agents as optimization processes in the physical universe. Surely there must be a utility function attached to each agent, that effectively determines its actions. By preferences (and thus morality) I do refer to the formal specification of our utility function.
 
+Other sensible problem would arise from the fact that preferences seem to change in relation to information available to us. Surely, the FAI would have to use its tremendous databases when extracting the CEV of an individual. A cheap way out of this is to assume that a preference subject to change in light of new information was actually an instrumental preference, being the final preference something other.
+
 ##The problem of modeling morality
 
 One apparently unsurmountable difficulty when dealing with our preferences is our lack of introspection. We do not seem able to pinpoint the exact specification that evolution forged into us; we are unable to read our own code. We do know some algorhythm must explain our behaviour, but we are still to young to comprehend it. Our experience with morality is akin to a black box, from which certain imperatives arise. So we have to rely on induction, and so will have a FAI implementing individual CEV, to try guessing the most simple set of rules that govern a subject's morality. This task has proven to be daunting due to several reasons, related to the content of our preferences.
