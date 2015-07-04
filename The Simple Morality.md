@@ -4,6 +4,8 @@ We constantly obsess over the nature of morality. We pretty much nail morality w
 
 The first grave mistake people make when talking about morality is not specifying a frame from which to discuss morality. There is no intrinsic property called rightness in the universe, so no action can be "right" or "wrong" if there is no agent which reasons about such properties. Now, this suggests that morality depends upon the preferences of the agent. I'll go one step further and say that what makes us talk about morality are truly our preferences.
 
+Philosophers through history have made a sharp distinction between what we want and what we want to want. They have called the former thing our desires and the second thing moral compass or similar. I find such a division disturbing and unnatural. We do not need two buckets for those two things. Both of them are preferences, which in ultimate instance determine our acts. We need a distinction however between our true preferences, and our stated preferences, which is our model of what our preferences are.
+
 What is a preference? This question seems resolved when we picture rational agents as optimization processes in the physical universe. Surely there must be a utility function attached to each agent, that effectively determines its actions. By preferences (and thus morality) I do refer to the formal specification of our utility function.
 
 ##The problem of modeling morality
