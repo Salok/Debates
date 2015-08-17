@@ -61,6 +61,7 @@ Pending: Show division by 3 is possible
 
 ##Finiteness
 A set is finite if it is equivalent to some natural number. Otherwise, it is infinite.
+
 Dedekind proposed an alternative definition: a set is infinite if it is equivalent to a subset of itself. Otherwise is finite.
 
 #Well order
@@ -116,6 +117,7 @@ No set is equivalent to its own power set. Corollary: there are uncountable sets
 
 ##The (generalized) continuum hypothesis
 The continuum hypothesis states that there is no cardinal number between the cardinal number of omega and the cardinal number of 2^omega.
+
 The generalized continuum hypothesis goes one step further and ensures that all the infinite cardinals are obtained from the repeated application of exponentiation. Thus, if /aleph is a cardinal, the smallest cardinal number greater than /aleph is 2^/aleph.
 
 
