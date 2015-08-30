@@ -96,6 +96,8 @@ Ordinal arithmetic is not well behaving. Commutativity fails.
 ###Counting theorem
 Every woset is similar to an unique ordinal number.
 
+Remark: a poset is similar to other if there is a correspondence between them that preserves the order.
+
 #Cardinal numbers
 The cardinal number of a set is the minimum element of the set consisting of all the ordinal numbers equivalent to said set. Every cardinal number is a limit number.
 
