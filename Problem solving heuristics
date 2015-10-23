@@ -18,16 +18,16 @@ If first principles fail, find an easier version of the problem which is solvabl
 If a problem is too easy solve the general case. Why was it easy?
 Try cross-modeling (see if a model for a different object can be used for the one you are trying to solve.)
 If you only want the solution don´t feel bad if you use overpowered techniques. 
-If the problem has many sections for example a) Do case k=2. b) Do case k=5. c) Do case k=n. You may go directly to c) and just write the answers to the previous ones.
+If the problem has many sections for example a) Do case k=2. b) Do case k=5. c) Do case k=n. You may go directly to c) and just write down the answers to the previous ones.
 
 
 Maths and Physics. Techniques: 
-Induction: Vacuous statements are trivially true, you may not write the base case (take n=0 and use convention : empty product is = 1 , etc)  
+Induction: Vacuous statements are trivially true, you may not write the base case (take n=0 and use conventions : empty product is = 1 , etc)  
            Sometimes asumming the n-1 th term is notationally more convenient than assuming th nth term.
 Construction: I they ask for something with properties A,B,C. Construct something with property A, some other thing with B, another with C
   another with A&B , ... , and finally you will get to one with A&B&C.
 Calculus (Limits, integrals): Substitute everything with its 3rd or 4th order Taylor expansion.
-Mechanics: Consider adding or substracting a dimension (sometime in 3-space it is cumbersome but the plane makes the problem intuitive)
+Mechanics: Consider adding or substracting a dimension (sometimes in 3-space it is cumbersome but the plane makes the problem intuitive)
 Linear algebra: Write everything with geometrical vocabulary and functional notation. Don`t write any matrices.
 General: Assume you are writing in a blackboard (usually paper-writing is too linear, from  the upper left corner to the lower right one)
 
