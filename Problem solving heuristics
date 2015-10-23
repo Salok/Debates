@@ -1,0 +1,14 @@
+(Probablemente sea útil poner ejemplos de cada una de ellas, así que buscaré alguno. Y si se os ocurre, ponedlo.)
+Maths and Physics: 
+Define the problem. How does it look like to have solved it? What about the general case?
+Solve it symbolically and only if absolutely necessary substitute numerically. 
+Try solving it from first principles. 
+If first principles fail, find an easier version of the problem which is solvable. (Try approximating or simplifying some of the conditions.)
+If a problem is too easy solve the general case. 
+Try cross-modeling (see if a model for a different object can be used for the one you are trying to solve.)
+
+To avoid pitfalls: 
+State your assumptions every time you are making one. 
+Ask yourself in every step if you are making an implicit assumption. 
+State your formulas before using them. 
+Explain the procedure as you go. 
