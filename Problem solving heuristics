@@ -1,14 +1,44 @@
 (Probablemente sea útil poner ejemplos de cada una de ellas, así que buscaré alguno. Y si se os ocurre, ponedlo.)
-Maths and Physics: 
+
+
+Before you get to problems:
+Whenever a definition is introduced, write down (or at least verbalize) its negation (notice how the quantifiers are arranged)
+Whenever a new concept is introduced, think how must a problem be to "be nice" (for example, symmetry is cool or time dependance is a hassle, etc)
+Don´t think of things as things-in-themselves but as things-that-affect-other-things (a matrix is a linear aplication, a complex fucntion is an endomorphism, a group is a permuter)
+
+
+
+Maths and Physics. Strategy: 
 Define the problem. How does it look like to have solved it? What about the general case?
 Solve it symbolically and only if absolutely necessary substitute numerically. 
+Substitute numerically (using always multiples of 2, 5 or 10 for example), it might be trivially trivial (example:  0 = 0)
 Try solving it from first principles. 
-If first principles fail, find an easier version of the problem which is solvable. (Try approximating or simplifying some of the conditions.)
-If a problem is too easy solve the general case. 
+Write down each of your assumptions. Why is each one of them necessary?
+If first principles fail, find an easier version of the problem which is solvable. Was the difficulty computational or intrinsic? (Try approximating or simplifying some of the conditions.)
+If a problem is too easy solve the general case. Why was it easy?
 Try cross-modeling (see if a model for a different object can be used for the one you are trying to solve.)
+If you only want the solution don´t feel bad if you use overpowered techniques. 
+If the problem has many sections for example a) Do case k=2. b) Do case k=5. c) Do case k=n. You may go directly to c) and just write the answers to the previous ones.
+
+
+Maths and Physics. Techniques: 
+Induction: Vacuous statements are trivially true, you may not write the base case (take n=0 and use convention : empty product is = 1 , etc)  
+           Sometimes asumming the n-1 th term is notationally more convenient than assuming th nth term.
+Construction: I they ask for something with properties A,B,C. Construct something with property A, some other thing with B, another with C
+  another with A&B , ... , and finally you will get to one with A&B&C.
+Calculus (Limits, integrals): Substitute everything with its 3rd or 4th order Taylor expansion.
+Mechanics: Consider adding or substracting a dimension (sometime in 3-space it is cumbersome but the plane makes the problem intuitive)
+Linear algebra: Write everything with geometrical vocabulary and functional notation. Don`t write any matrices.
+General: Assume you are writing in a blackboard (usually paper-writing is too linear, from  the upper left corner to the lower right one)
+
 
 To avoid pitfalls: 
 State your assumptions every time you are making one. 
 Ask yourself in every step if you are making an implicit assumption. 
-State your formulas before using them. 
+State your formulas before using them.
+Write down the dimensional formula next to the conceptual one and with the factors in the same order. 
+    Remember that operators affect dimensions because diffrentials hace dimensions. 
+    Remember that  functions usually? take numbers or "artificial" dimensions (for example: sin(a*[Time]) implies that [a]=[Time]^-1)
 Explain the procedure as you go. 
+Take limits if it makes sense (make the distance go to 0 or to infinity, make the time go to infinity, etc)
+
