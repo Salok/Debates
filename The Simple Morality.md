@@ -8,7 +8,7 @@ Philosophers through history have made a sharp distinction between what we want 
 
 What is a preference? This question seems resolved when we picture rational agents as optimization processes in the physical universe. Surely there must be a utility function attached to each agent, that effectively determines its actions. By preferences (and thus morality) I do refer to the formal specification of our utility function.
 
-Let me delve in this idea from other point of view. Morality, whatever mental process it is, must be causally connected to our actions. So it seems like we must be able to infer morality, or at least a great part of it, observing the behavior of humankind. This is a highly controversial claim, however, it seems obvious to me in hindsight. After all, if morality was something causally disconnected from the individual, why let it control our actions?
+Let me delve in this idea from other point of view. Morality, whatever mental process it is, must be causally connected to our actions. So it seems like we must be able to infer morality, or at least a great part of it, observing the behavior of humankind. This is a highly controversial claim; however, it seems obvious to me in hindsight. After all, if morality was something causally disconnected from the individual, why let it control our actions?
 
 Now that I have exposed my reasons to believe why extracting morality may be empirically possible, I proceed to investigate the obstacles we encounter when trying to realize this process.
 
@@ -58,6 +58,27 @@ Trying to come up with a good algorithm to fix this problem is, as with individu
 
 We have divided the CEV problem in two parts: individual CEV extraction and synthesis of individual CEVs. An informal method of individual CEV extraction from a set of diverse order preferences has been proposed, though its feasibility and plausibility remain uncertain. The individual CEV extraction itself depends on a generalization of scientific induction, which is way beyond the current capabilities of machines. Synthesis of individual CEVs is a chaotic mess, and the lack of an angle of approach is evident.
 
-It seems likely that research toward extracting preferences of arbitrary agent would have to pass through decision theory, namely the definition of a useful notion of agent. We might reasonably believe that humans cannot be thought of as agents with goals, but instead processes driven entirely by urges. I strongly suspect that even if this was the case we could still successfully extract consistent preferences from their behavior using the method suggested above.
+It seems likely that research toward extracting preferences of arbitrary agent would have to pass through decision theory, namely the definition of a useful notion of agent. We might reasonably believe that humans cannot be thought of as agents with goals, but instead processes driven entirely by urges. I suspect that even if this was the case we could still successfully extract consistent preferences from their behavior using the method suggested above.
 
 Comment and discuss. Every deserved (an underserved) word is welcome.
+
+##Key ideas
+* Humans are optimization processes.
+* Optimization processes can be characterized as agents with associated VNM preferences.
+  * What constitues an optimization process?
+    * What does NOT constitue an optimization process?
+  * What does it mean to be characterized by a VNM function?
+    * It means that we can deduce its behaviour from the UF.
+      * We need to take into accout biases, actual capabilities and lack of introspection .
+    * Maximizing the associated UF maximizes the agent values.
+      * Those two things seem equivalent to affirming that actual preferences correspond with behavioral preferences in some          sense.
+  * What constitues an agent?
+    * Preferences + Model of the world + Decisions?
+    * How can we separate an agent from the environment?
+    * Are agents a special kind of optimization process?
+* The preferences that model an optimization process can be inferred using natural induction.
+  * Stated preferences VS Behavioral preferences VS Actual preferences.
+  * Screening off biases and heuristics.
+* Open question: CEV of humankind.
+  * Possible solution: Regard humankind as an optimization process.
+  * Other possible solution: If individual values are sufficiently alike, extrapolate the individual UF using magic.
