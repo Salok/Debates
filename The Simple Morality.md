@@ -69,7 +69,8 @@ Comment and discuss. Every deserved (an underserved) word is welcome.
     * What does NOT constitue an optimization process?
   * What does it mean to be characterized by a VNM function?
     * It means that we can deduce its behaviour from the UF.
-      * We need to take into accout biases, actual capabilities and lack of introspection .
+      * We need to take into account biases, actual capabilities and lack of introspection.
+      * Two kind of limitations: action limitations (does not change how the UF dictates behaviour, but restrains possible courses of action) and UF distortions (changes the UF implementation, leads to irrational behaviour).
     * Maximizing the associated UF maximizes the agent values.
       * Those two things seem equivalent to affirming that actual preferences correspond with behavioral preferences in some          sense.
   * What constitues an agent?
